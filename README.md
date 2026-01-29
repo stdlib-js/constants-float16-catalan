@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT16_CATALAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-catalan@deno/mod.js';
+import FLOAT16_CATALAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-catalan@v0.1.0-deno/mod.js';
 ```
 
 #### FLOAT16_CATALAN
@@ -67,7 +67,7 @@ var bool = ( FLOAT16_CATALAN === 0.916015625 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT16_CATALAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-catalan@deno/mod.js';
+import FLOAT16_CATALAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-catalan@v0.1.0-deno/mod.js';
 
 console.log( FLOAT16_CATALAN );
 // => 0.916015625
